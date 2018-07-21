@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ma3obblu\\ar_relations\\": "src/",
+            "ma3obblu\\ar_relations\\": "src/"
         }
     },
     "extra": {
