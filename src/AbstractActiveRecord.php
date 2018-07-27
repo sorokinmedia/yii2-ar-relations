@@ -1,9 +1,9 @@
 <?php
-namespace ma3obblu\ar_relations;
+namespace sorokinmedia\ar_relations;
 
 /**
  * Class AbstractActiveRecord
- * @package ma3obblu\ar_relations
+ * @package sorokinmedia\ar_relations
  *
  * Расширение базового класса \yii\db\ActiveRecord
  * Позволяет описать метод initClasses и использовать в связях (yii2 relations) автоматическую подстановку нужного класса

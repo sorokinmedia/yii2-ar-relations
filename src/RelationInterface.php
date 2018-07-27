@@ -1,9 +1,9 @@
 <?php
-namespace ma3obblu\ar_relations;
+namespace sorokinmedia\ar_relations;
 
 /**
  * Interface RelationInterface
- * @package ma3obblu\ar_relations
+ * @package sorokinmedia\ar_relations
  */
 interface RelationInterface
 {
