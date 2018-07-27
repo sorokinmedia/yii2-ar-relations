@@ -1,5 +1,5 @@
 {
-    "name": "ma3obblu/yii2-ar-relations",
+    "name": "sorokinmedia/yii2-ar-relations",
     "description": "AR relations for Yii2",
     "type": "yii2-extension",
     "keywords": ["yii2", "yii 2", "active record", "AR"],
@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/Ma3oBblu/yii2-ar-relations/issues?state=open",
-        "source": "https://github.com/Ma3oBblu/yii2-ar-relations"
+        "issues": "https://github.com/sorokinmedia/yii2-ar-relations/issues?state=open",
+        "source": "https://github.com/sorokinmedia/yii2-ar-relations"
     },
     "require": {
         "yiisoft/yii2": ">=2.0.6"
@@ -23,7 +23,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ma3obblu\\ar_relations\\": "src/"
+            "sorokinmedia\\ar_relations\\": "src/"
         }
     },
     "extra": {
