@@ -23,7 +23,8 @@
     },
     "autoload": {
         "psr-4": {
-            "sorokinmedia\\ar_relations\\": "src/"
+            "sorokinmedia\\ar_relations\\": "src/",
+            "sorokinmedia\\ar_relations\\examples\\": "examples/"
         }
     },
     "extra": {
