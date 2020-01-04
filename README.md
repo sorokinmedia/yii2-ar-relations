@@ -1,5 +1,7 @@
 # yii2-ar-relations
 
+[![Total Downloads](https://img.shields.io/packagist/dt/sorokinmedia/yii2-ar-relations.svg)](https://packagist.org/packages/sorokinmedia/yii2-ar-relations)
+
 ***
 Sorokin.Media repository
 ***
