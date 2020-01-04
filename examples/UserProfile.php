@@ -1,4 +1,5 @@
 <?php
+
 namespace sorokinmedia\ar_relations\examples;
 
 use sorokinmedia\ar_relations\RelationInterface;

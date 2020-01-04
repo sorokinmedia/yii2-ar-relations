@@ -15,7 +15,7 @@ trait RelationClassTrait
     /**
      * инициализация классов
      */
-    public function initClasses()
+    public function initClasses(): void
     {
         $this->__userClass = User::class;
         $this->__userProfileClass = UserProfile::class;
@@ -24,7 +24,7 @@ trait RelationClassTrait
     /**
      * инициализация связей
      */
-    public function init()
+    public function init(): void
     {
         parent::init();
         $this->initClasses();

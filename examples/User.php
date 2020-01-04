@@ -1,7 +1,9 @@
 <?php
+
 namespace sorokinmedia\ar_relations\examples;
 
 use sorokinmedia\ar_relations\RelationInterface;
+use yii\db\ActiveQuery;
 use yii\db\ActiveRecord;
 
 /**
@@ -17,9 +19,9 @@ class User extends ActiveRecord implements RelationInterface
     use RelationClassTrait;
 
     /**
-     * @return \yii\db\ActiveQuery
+     * @return ActiveQuery
      */
-    public function getProfile()
+    public function getProfile(): ActiveQuery
     {
         return $this->hasOne($this->__userProfileClass, ['user_id' => 'id']);
     }

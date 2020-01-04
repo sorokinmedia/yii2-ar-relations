@@ -4,6 +4,8 @@
 Sorokin.Media repository
 ***
 
+[![Total Downloads](https://img.shields.io/packagist/dt/sorokinmedia/yii2-ar-relations.svg)](https://packagist.org/packages/sorokinmedia/yii2-ar-relations)
+
 Расширение базового класса `\yii\db\ActiveRecord`
 
 Позволяет описать метод `initClasses` и использовать в связях (yii2 relations) автоматическую подстановку нужного класса
